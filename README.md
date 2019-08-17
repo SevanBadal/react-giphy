@@ -1,4 +1,6 @@
-Simple react starter with the following config:
+Cool react app that allows users to search for gifs using the giphy api
+
+config:
 
 - React, ReactDOM
 - Webpack 4
