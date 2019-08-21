@@ -1,4 +1,4 @@
-# Inbox Demo
+# react-giphy
 > React app that allows users to search for gifs using the giphy api.
 
 ![](header.gif)
